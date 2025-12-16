@@ -1,0 +1,14 @@
+main {
+    font-size: 16px;
+    color: #333333;
+    line-height: 1.5;
+    font-family: Rubik, sans-serif;
+}
+
+b {
+    font-weight: bold;
+}
+
+i {
+    font-style: italic;
+}
